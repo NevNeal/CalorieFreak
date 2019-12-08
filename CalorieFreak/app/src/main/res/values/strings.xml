@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalorieFreak</string>
+    <string name="calorie_tab">Calorie Tracker</string>
+    <string name="weight_tab">Weight Tracker</string>
+</resources>
